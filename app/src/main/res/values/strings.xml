@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">T9A calculator</string>
+
+    <string-array name="attacks">
+        <item>2+</item>
+        <item>3+</item>
+        <item>4+</item>
+        <item>5+</item>
+        <item>6+</item>
+    </string-array>
+
+    <string-array name="rrs">
+        <item>No RR</item>
+        <item>RR 1s</item>
+        <item>RR 6s</item>
+        <item>Failed</item>
+        <item>Success</item>
+    </string-array>
+</resources>
